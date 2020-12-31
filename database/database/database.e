@@ -6,7 +6,7 @@ note
 		  - Range is the set of data values.
 		Informally, one may also consider a relation as a set of key-value pairs or mappings.
 	]"
-	author: "Jinho Hwang"
+	author: "Samyak Jain"
 	date: "$Date$"
 	revision: "$Revision$"
 

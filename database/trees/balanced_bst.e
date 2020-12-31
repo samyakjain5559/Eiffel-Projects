@@ -1,6 +1,6 @@
 note
 	description: "A class representing a balanced binary search tree (BST)."
-	author: "Jinho Hwang"
+	author: "Samyak Jain"
 	date: "$Date$"
 	revision: "$Revision$"
 

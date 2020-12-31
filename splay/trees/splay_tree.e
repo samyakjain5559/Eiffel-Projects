@@ -10,7 +10,7 @@ note
 		of the tree, however the splay tree has a guaranteed amortised logarithmic
 		running time for insertions, searches, and deletion.
 		]"
-	author: "Jinho Hwang"
+	author: "Samyak Jain"
 	date: "$Date$"
 	revision: "$Revision$"
 

@@ -1,6 +1,6 @@
 note
 	description: "A specialized kind of database implemented by linear data structures."
-	author: "Jinho Hwang"
+	author: "Samyak Jain"
 	date: "$Date$"
 	revision: "$Revision$"
 

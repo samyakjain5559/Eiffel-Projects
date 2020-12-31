@@ -15,7 +15,7 @@ note
 		The left, right, and parent pointers must not be itself.
 		(i.e. no circular reference)
 		]"
-	author: "Jinho Hwang"
+	author: "Samyak Jain"
 	date: "$Date$"
 	revision: "$Revision$"
 

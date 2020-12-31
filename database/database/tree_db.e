@@ -2,7 +2,7 @@ note
 	description: "[
 		A specialized kind of database implemented by a balanced binary search tree.
 	]"
-	author: "Jinho Hwang"
+	author: "Samyak Jain"
 	date: "$Date$"
 	revision: "$Revision$"
 
