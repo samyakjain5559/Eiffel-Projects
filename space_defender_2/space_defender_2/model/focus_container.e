@@ -1,6 +1,6 @@
 note
 	description: ""
-	author: ""
+	author: "Samyak Jain"
 	date: "$Date$"
 	revision: "$Revision$"
 
