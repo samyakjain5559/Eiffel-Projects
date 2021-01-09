@@ -1,6 +1,6 @@
 note
 	description: "A default business model."
-	author: "Jackie Wang"
+	author: "Samyak Jain"
 	date: "$Date$"
 	revision: "$Revision$"
 
